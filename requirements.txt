@@ -1,0 +1,11 @@
+
+#
+# This file is contains the version requirements for the model training 
+#
+#
+keras==2.4.3
+tensorflow==2.4.1
+matplotlib==3.2.2
+numpy==1.19.5
+opencv== 4.4.0
+sklearn==0.23.1        
